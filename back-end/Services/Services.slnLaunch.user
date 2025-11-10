@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Test1",
+    "Projects": [
+      {
+        "Path": "APIGateway\\APIGateway.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "OrderService\\OrderService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "PaymentService\\PaymentService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ReportService\\ReportService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

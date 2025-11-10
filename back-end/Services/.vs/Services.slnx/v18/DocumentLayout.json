@@ -1,0 +1,698 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|APIGateway\\APIGateway.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|APIGateway\\APIGateway.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|APIGateway\\APIGateway.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|APIGateway\\APIGateway.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\repository\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\repository\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\paymentservice\\repository\\paymentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\repository\\paymentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\paymentservice\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\paymentservice\\repository\\ipaymentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\repository\\ipaymentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\paymentservice\\paymentservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\paymentservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\paymentservice\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\repository\\iordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\repository\\iordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB910E-E861-DD69-508C-ECBA62A00FE7}|ReportService\\ReportService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\reportservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CBB910E-E861-DD69-508C-ECBA62A00FE7}|ReportService\\ReportService.csproj|solutionrelative:reportservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\paymentservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB910E-E861-DD69-508C-ECBA62A00FE7}|ReportService\\ReportService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\reportservice\\dtos\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB910E-E861-DD69-508C-ECBA62A00FE7}|ReportService\\ReportService.csproj|solutionrelative:reportservice\\dtos\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB910E-E861-DD69-508C-ECBA62A00FE7}|ReportService\\ReportService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\reportservice\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB910E-E861-DD69-508C-ECBA62A00FE7}|ReportService\\ReportService.csproj|solutionrelative:reportservice\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB910E-E861-DD69-508C-ECBA62A00FE7}|ReportService\\ReportService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\reportservice\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB910E-E861-DD69-508C-ECBA62A00FE7}|ReportService\\ReportService.csproj|solutionrelative:reportservice\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB910E-E861-DD69-508C-ECBA62A00FE7}|ReportService\\ReportService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\reportservice\\services\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB910E-E861-DD69-508C-ECBA62A00FE7}|ReportService\\ReportService.csproj|solutionrelative:reportservice\\services\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB910E-E861-DD69-508C-ECBA62A00FE7}|ReportService\\ReportService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\reportservice\\repository\\reportsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB910E-E861-DD69-508C-ECBA62A00FE7}|ReportService\\ReportService.csproj|solutionrelative:reportservice\\repository\\reportsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB910E-E861-DD69-508C-ECBA62A00FE7}|ReportService\\ReportService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\reportservice\\repository\\ireportsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB910E-E861-DD69-508C-ECBA62A00FE7}|ReportService\\ReportService.csproj|solutionrelative:reportservice\\repository\\ireportsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB910E-E861-DD69-508C-ECBA62A00FE7}|ReportService\\ReportService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\reportservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CBB910E-E861-DD69-508C-ECBA62A00FE7}|ReportService\\ReportService.csproj|solutionrelative:reportservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB910E-E861-DD69-508C-ECBA62A00FE7}|ReportService\\ReportService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\reportservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB910E-E861-DD69-508C-ECBA62A00FE7}|ReportService\\ReportService.csproj|solutionrelative:reportservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB910E-E861-DD69-508C-ECBA62A00FE7}|ReportService\\ReportService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\reportservice\\data\\reportdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB910E-E861-DD69-508C-ECBA62A00FE7}|ReportService\\ReportService.csproj|solutionrelative:reportservice\\data\\reportdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\paymentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\paymentservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\paymentservice\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\paymentservice\\data\\paymentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\data\\paymentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CBB910E-E861-DD69-508C-ECBA62A00FE7}|ReportService\\ReportService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\reportservice\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CBB910E-E861-DD69-508C-ECBA62A00FE7}|ReportService\\ReportService.csproj|solutionrelative:reportservice\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\paymentservice\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\paymentservice\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\APIGateway\\Program.cs",
+              "RelativeDocumentMoniker": "APIGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\APIGateway\\Program.cs",
+              "RelativeToolTip": "APIGateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:41:25.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Services\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Services\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Services\\IPaymentService.cs",
+              "RelativeToolTip": "PaymentService\\Services\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T22:32:52.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Services\\PaymentService.cs",
+              "RelativeToolTip": "PaymentService\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T22:33:27.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentService.csproj",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\PaymentService.csproj",
+              "RelativeDocumentMoniker": "PaymentService\\PaymentService.csproj",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\PaymentService.csproj",
+              "RelativeToolTip": "PaymentService\\PaymentService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T04:54:47.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrderService\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OrderService\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T14:01:16.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\APIGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APIGateway\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\APIGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APIGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T04:49:53.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Repository\\OrdersRepository.cs",
+              "RelativeDocumentMoniker": "OrderService\\Repository\\OrdersRepository.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Repository\\OrdersRepository.cs",
+              "RelativeToolTip": "OrderService\\Repository\\OrdersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T13:25:49.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\APIGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "APIGateway\\ocelot.json",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\APIGateway\\ocelot.json",
+              "RelativeToolTip": "APIGateway\\ocelot.json",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAswGwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T04:41:40.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\APIGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "APIGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\APIGateway\\appsettings.json",
+              "RelativeToolTip": "APIGateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T06:50:11.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "OrderService\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Services\\OrderService.cs",
+              "RelativeToolTip": "OrderService\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T14:03:19.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Repository\\PaymentsRepository.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Repository\\PaymentsRepository.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Repository\\PaymentsRepository.cs",
+              "RelativeToolTip": "PaymentService\\Repository\\PaymentsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T21:54:03.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPaymentsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Repository\\IPaymentsRepository.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Repository\\IPaymentsRepository.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Repository\\IPaymentsRepository.cs",
+              "RelativeToolTip": "PaymentService\\Repository\\IPaymentsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T21:53:55.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "OrderService\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Services\\IOrderService.cs",
+              "RelativeToolTip": "OrderService\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T14:03:31.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOrdersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Repository\\IOrdersRepository.cs",
+              "RelativeDocumentMoniker": "OrderService\\Repository\\IOrdersRepository.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Repository\\IOrdersRepository.cs",
+              "RelativeToolTip": "OrderService\\Repository\\IOrdersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T13:25:40.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "OrderService\\DTOs\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "OrderService\\DTOs\\OrderDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T11:29:53.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\ReportService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ReportService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\ReportService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ReportService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-09T22:52:23.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderService.csproj",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\OrderService.csproj",
+              "RelativeDocumentMoniker": "OrderService\\OrderService.csproj",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\OrderService.csproj",
+              "RelativeToolTip": "OrderService\\OrderService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T04:54:43.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OrderService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OrderService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-09T19:33:57.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReportDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\ReportService\\DTOs\\ReportDto.cs",
+              "RelativeDocumentMoniker": "ReportService\\DTOs\\ReportDto.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\ReportService\\DTOs\\ReportDto.cs",
+              "RelativeToolTip": "ReportService\\DTOs\\ReportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T22:46:56.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\ReportService\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "ReportService\\Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\ReportService\\Services\\ReportService.cs",
+              "RelativeToolTip": "ReportService\\Services\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T22:50:46.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\ReportService\\Services\\IReportService.cs",
+              "RelativeDocumentMoniker": "ReportService\\Services\\IReportService.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\ReportService\\Services\\IReportService.cs",
+              "RelativeToolTip": "ReportService\\Services\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T22:50:29.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReportsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\ReportService\\Repository\\ReportsRepository.cs",
+              "RelativeDocumentMoniker": "ReportService\\Repository\\ReportsRepository.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\ReportService\\Repository\\ReportsRepository.cs",
+              "RelativeToolTip": "ReportService\\Repository\\ReportsRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T22:50:09.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PaymentService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PaymentService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T04:50:15.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IReportsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\ReportService\\Repository\\IReportsRepository.cs",
+              "RelativeDocumentMoniker": "ReportService\\Repository\\IReportsRepository.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\ReportService\\Repository\\IReportsRepository.cs",
+              "RelativeToolTip": "ReportService\\Repository\\IReportsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T22:49:49.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\ReportService\\appsettings.json",
+              "RelativeDocumentMoniker": "ReportService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\ReportService\\appsettings.json",
+              "RelativeToolTip": "ReportService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-09T22:51:52.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\ReportService\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "ReportService\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\ReportService\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "ReportService\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T22:51:35.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\ReportService\\Program.cs",
+              "RelativeDocumentMoniker": "ReportService\\Program.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\ReportService\\Program.cs",
+              "RelativeToolTip": "ReportService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T22:51:58.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReportDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\ReportService\\Data\\ReportDbContext.cs",
+              "RelativeDocumentMoniker": "ReportService\\Data\\ReportDbContext.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\ReportService\\Data\\ReportDbContext.cs",
+              "RelativeToolTip": "ReportService\\Data\\ReportDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T22:47:59.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Program.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Program.cs",
+              "RelativeToolTip": "PaymentService\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T22:53:55.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "OrderService\\Program.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Program.cs",
+              "RelativeToolTip": "OrderService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T19:12:57.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\appsettings.json",
+              "RelativeToolTip": "OrderService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-09T19:34:06.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\appsettings.json",
+              "RelativeDocumentMoniker": "PaymentService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\appsettings.json",
+              "RelativeToolTip": "PaymentService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-09T22:34:20.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "PaymentService\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T22:55:18.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\ReportService\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "ReportService\\Models\\Report.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\ReportService\\Models\\Report.cs",
+              "RelativeToolTip": "ReportService\\Models\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T22:46:17.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PaymentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Data\\PaymentDbContext.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Data\\PaymentDbContext.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Data\\PaymentDbContext.cs",
+              "RelativeToolTip": "PaymentService\\Data\\PaymentDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T22:02:32.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PaymentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\DTOs\\PaymentDto.cs",
+              "RelativeDocumentMoniker": "PaymentService\\DTOs\\PaymentDto.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\DTOs\\PaymentDto.cs",
+              "RelativeToolTip": "PaymentService\\DTOs\\PaymentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T21:51:25.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Models\\Payment.cs",
+              "RelativeToolTip": "PaymentService\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T21:50:43.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrderDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Data\\OrderDBContext.cs",
+              "RelativeDocumentMoniker": "OrderService\\Data\\OrderDBContext.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Data\\OrderDBContext.cs",
+              "RelativeToolTip": "OrderService\\Data\\OrderDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T04:12:22.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrderService\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Models\\Order.cs",
+              "RelativeToolTip": "OrderService\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T04:13:12.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "OrderService\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Models\\OrderItem.cs",
+              "RelativeToolTip": "OrderService\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T04:21:38.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\DTOs\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "OrderService\\DTOs\\OrderItemDto.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\DTOs\\OrderItemDto.cs",
+              "RelativeToolTip": "OrderService\\DTOs\\OrderItemDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T05:00:11.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "OrderService\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "OrderService\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T14:01:06.104Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

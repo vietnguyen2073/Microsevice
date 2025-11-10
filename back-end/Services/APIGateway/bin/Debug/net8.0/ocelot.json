@@ -1,0 +1,120 @@
+{
+  // =======================
+  // DANH SÁCH CÁC TUYẾN (ROUTES)
+  // =======================
+  "Routes": [
+
+    // =======================
+    // 1️. ORDER SERVICE - lấy toàn bộ đơn hàng
+    // =======================
+    {
+      // Đường dẫn thật trong OrderService
+      "DownstreamPathTemplate": "/api/orders",
+
+      // Giao thức HTTP kết nối đến service
+      "DownstreamScheme": "http",
+
+      // Địa chỉ + cổng của OrderService
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5101
+        }
+      ],
+
+      // Đường dẫn mà client sẽ gọi đến API Gateway
+      "UpstreamPathTemplate": "/api/orders",
+
+      // Các phương thức được phép qua route này
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ]
+    },
+
+    // =======================
+    // 2️. ORDER SERVICE - thao tác với 1 đơn hàng cụ thể theo id
+    // =======================
+    {
+      "DownstreamPathTemplate": "/api/orders/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5101
+        }
+      ],
+      "UpstreamPathTemplate": "/api/orders/{id}",
+      "UpstreamHttpMethod": [ "GET", "PUT", "DELETE" ]
+    },
+
+    // =======================
+    // 3️⃣ PAYMENT SERVICE - danh sách hoặc tạo thanh toán
+    // =======================
+    {
+      "DownstreamPathTemplate": "/api/payments",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5102
+        }
+      ],
+      "UpstreamPathTemplate": "/api/payments",
+      "UpstreamHttpMethod": [ "GET", "POST", "DELETE" ]
+    },
+
+    // =======================
+    // 4️⃣ PAYMENT SERVICE - thao tác với 1 thanh toán theo id
+    // =======================
+    {
+      "DownstreamPathTemplate": "/api/payments/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5102
+        }
+      ],
+      "UpstreamPathTemplate": "/api/payments/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ]
+    },
+
+    // =======================
+    // 5️⃣ REPORT SERVICE - lấy hoặc tạo báo cáo
+    // =======================
+    {
+      "DownstreamPathTemplate": "/api/reports",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5103
+        }
+      ],
+      "UpstreamPathTemplate": "/api/reports",
+      "UpstreamHttpMethod": [ "GET", "POST", "DELETE" ]
+    },
+
+    // =======================
+    // 6️⃣ REPORT SERVICE - thao tác với 1 báo cáo cụ thể theo id
+    // =======================
+    {
+      "DownstreamPathTemplate": "/api/reports/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5103
+        }
+      ],
+      "UpstreamPathTemplate": "/api/reports/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ]
+    }
+  ],
+
+  // =======================
+  // CẤU HÌNH CHUNG CHO TOÀN BỘ GATEWAY
+  // =======================
+  "GlobalConfiguration": {
+    // Địa chỉ public mà Gateway lắng nghe (client sẽ gọi vào đây)
+    "BaseUrl": "http://localhost:5000"
+  }
+}
