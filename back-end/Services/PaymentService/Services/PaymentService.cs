@@ -62,6 +62,18 @@ namespace PaymentService.Services
             };
         }
 
+        public async Task<bool> UpdateAsync(Guid id, PaymentUpdateDto dto)
+        {
+            var payment = await _repo.GetByIdAsync(id);
+            if (payment == null) return false;
+
+            payment.Status = dto.Status;
+
+            await _repo.UpdateAsync(payment);
+
+            return true;
+        }
+
         public async Task<bool> DeleteAsync(Guid id)
         {
             var payment = await _repo.GetByIdAsync(id);

@@ -121,3 +121,4 @@ C:\Users\Nguye\Desktop\8xb\back-end\Services\ReportService\obj\Debug\net8.0\Repo
 C:\Users\Nguye\Desktop\8xb\back-end\Services\ReportService\obj\Debug\net8.0\ReportService.genruntimeconfig.cache
 C:\Users\Nguye\Desktop\8xb\back-end\Services\ReportService\obj\Debug\net8.0\ref\ReportService.dll
 C:\Users\Nguye\Desktop\8xb\back-end\Services\ReportService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Nguye\Desktop\8xb\back-end\Services\ReportService\obj\Debug\net8.0\ReportService.sourcelink.json

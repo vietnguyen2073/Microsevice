@@ -1,4 +1,4 @@
-﻿using OrderService.DTOs;
+﻿using OrderService.DTOs.OrderDTOs;
 
 namespace OrderService.Services
 {

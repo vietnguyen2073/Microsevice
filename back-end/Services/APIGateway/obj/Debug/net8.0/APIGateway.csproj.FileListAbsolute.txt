@@ -44,3 +44,4 @@ C:\Users\Nguye\Desktop\8xb\back-end\Services\APIGateway\obj\Debug\net8.0\APIGate
 C:\Users\Nguye\Desktop\8xb\back-end\Services\APIGateway\obj\Debug\net8.0\APIGateway.genruntimeconfig.cache
 C:\Users\Nguye\Desktop\8xb\back-end\Services\APIGateway\obj\Debug\net8.0\ref\APIGateway.dll
 C:\Users\Nguye\Desktop\8xb\back-end\Services\APIGateway\bin\Debug\net8.0\ocelot.json
+C:\Users\Nguye\Desktop\8xb\back-end\Services\APIGateway\obj\Debug\net8.0\APIGateway.sourcelink.json

@@ -3,9 +3,9 @@
 
     public enum PaymentStatus
     {
-        Pending,
-        Success,
-        Failed
+        Pending = 0,
+        Success = 1,
+        Failed = 2,
     }
 
     public class Payment

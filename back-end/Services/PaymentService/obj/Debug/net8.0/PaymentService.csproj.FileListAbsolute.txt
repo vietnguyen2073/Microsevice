@@ -121,3 +121,4 @@ C:\Users\Nguye\Desktop\8xb\back-end\Services\PaymentService\obj\Debug\net8.0\Pay
 C:\Users\Nguye\Desktop\8xb\back-end\Services\PaymentService\obj\Debug\net8.0\PaymentService.genruntimeconfig.cache
 C:\Users\Nguye\Desktop\8xb\back-end\Services\PaymentService\obj\Debug\net8.0\ref\PaymentService.dll
 C:\Users\Nguye\Desktop\8xb\back-end\Services\PaymentService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Nguye\Desktop\8xb\back-end\Services\PaymentService\obj\Debug\net8.0\PaymentService.sourcelink.json

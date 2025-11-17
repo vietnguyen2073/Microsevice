@@ -1,4 +1,7 @@
-﻿using OrderService.DTOs;
+﻿using OrderService.DTOs.OrderDTOs;
+using OrderService.DTOs.OrderItemDTOs;
+using OrderService.Events.Interface;
+using OrderService.Events.Models;
 using OrderService.Models;
 using OrderService.Repository;
 
@@ -7,10 +10,12 @@ namespace OrderService.Services
     public class OrderService : IOrderService
     {
         private readonly IOrdersRepository _repo;
+        private readonly IRabbitMQPublisher _rabbitMQPublisher;
 
-        public OrderService(IOrdersRepository repo)
+        public OrderService(IOrdersRepository repo, IRabbitMQPublisher rabbitMQPublisher)
         {
             _repo = repo;
+            _rabbitMQPublisher = rabbitMQPublisher;
         }
 
         public async Task<IEnumerable<OrderReadDto>> GetAllAsync()
@@ -63,7 +68,6 @@ namespace OrderService.Services
 
         public async Task<OrderReadDto> CreateAsync(OrderCreateDto dto)
         {
-            // 1. Map DTO -> Entity
             var order = new Order
             {
                 CustomerName = dto.CustomerName,
@@ -79,14 +83,11 @@ namespace OrderService.Services
                 }).ToList()
             };
 
-            // 2. Tính tổng tiền
             order.TotalPrice = order.OrderItems.Sum(i => i.Price * i.Amount);
 
-            // 3. Lưu DB qua repository
             await _repo.CreateAsync(order);
             await _repo.SaveChangesAsync();
 
-            // 4. Map Entity -> ReadDto để trả về
             var result = new OrderReadDto
             {
                 Id = order.Id,
@@ -104,6 +105,18 @@ namespace OrderService.Services
                 }).ToList()
             };
 
+
+            //RabbitMQ
+            var orderEvent = new OrderCreatedEvent
+            {
+                OrderId = order.Id,
+                Amount = order.TotalPrice
+            };
+
+            _rabbitMQPublisher.Publish(orderEvent, exchangeName: "order_exchange", routingKey: "order.created");
+
+
+
             return result;
         }
 
@@ -115,6 +128,7 @@ namespace OrderService.Services
             order.Status = dto.Status;
 
             await _repo.UpdateAsync(order);
+            await _repo.SaveChangesAsync();
             return true;
         }
 
@@ -124,6 +138,7 @@ namespace OrderService.Services
             if (order == null) return false;
 
             await _repo.DeleteAsync(order);
+            await _repo.SaveChangesAsync();
             return true;
         }
     }

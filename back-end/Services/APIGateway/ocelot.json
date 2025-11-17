@@ -46,7 +46,7 @@
     },
 
     // =======================
-    // 3️⃣ PAYMENT SERVICE - danh sách hoặc tạo thanh toán
+    // 3️. PAYMENT SERVICE - danh sách hoặc tạo thanh toán
     // =======================
     {
       "DownstreamPathTemplate": "/api/payments",
@@ -62,7 +62,7 @@
     },
 
     // =======================
-    // 4️⃣ PAYMENT SERVICE - thao tác với 1 thanh toán theo id
+    // 4️. PAYMENT SERVICE - thao tác với 1 thanh toán theo id
     // =======================
     {
       "DownstreamPathTemplate": "/api/payments/{id}",
@@ -78,7 +78,7 @@
     },
 
     // =======================
-    // 5️⃣ REPORT SERVICE - lấy hoặc tạo báo cáo
+    // 5️. REPORT SERVICE - lấy hoặc tạo báo cáo
     // =======================
     {
       "DownstreamPathTemplate": "/api/reports",
@@ -94,7 +94,7 @@
     },
 
     // =======================
-    // 6️⃣ REPORT SERVICE - thao tác với 1 báo cáo cụ thể theo id
+    // 6️.REPORT SERVICE - thao tác với 1 báo cáo cụ thể theo id
     // =======================
     {
       "DownstreamPathTemplate": "/api/reports/{id}",

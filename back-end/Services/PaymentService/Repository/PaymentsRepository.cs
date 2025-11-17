@@ -20,6 +20,13 @@ namespace PaymentService.Repository
             await _context.Payments.AddAsync(payment);
             await _context.SaveChangesAsync();
         }
+
+        public async Task UpdateAsync(Payment payment)
+        {
+            _context.Payments.Update(payment);
+            await _context.SaveChangesAsync();
+        }
+
         public async Task DeleteAsync(Payment payment)
         {
             _context.Payments.Remove(payment);

@@ -1,5 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using OrderService.Data;
+using OrderService.Events.Interface;
+using OrderService.Events.RabbitMQ;
 using OrderService.Repository;
 using OrderService.Services;
 
@@ -17,6 +19,8 @@ builder.Services.AddSwaggerGen();
 // Đăng ký các service
 builder.Services.AddScoped<IOrderService, OrderService.Services.OrderService>();
 builder.Services.AddScoped<IOrdersRepository, OrdersRepository>();
+builder.Services.AddSingleton<IRabbitMQPublisher, RabbitMQPublisher>();
+
 
 // Kết nối PostgreSQL
 builder.Services.AddDbContext<OrderDBContext>(options =>

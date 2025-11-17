@@ -10,10 +10,4 @@ namespace PaymentService.DTOs
         public PaymentStatus Status { get; set; }
         public DateTime CreatedAt { get; set; }
     }
-
-    public class PaymentCreateDto
-    {
-        public Guid OrderId { get; set; }
-        public decimal Amount { get; set; }
-    }
 }

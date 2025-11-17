@@ -11,7 +11,7 @@ public enum OrderStatus
 public class Order
 {
     public Guid Id { get; set; } = Guid.NewGuid();
-    public string CustomerName { get; set; } = null!;
+    public string? CustomerName { get; set; }
     public decimal TotalPrice { get; set; }
     public OrderStatus Status { get; set; } = OrderStatus.Pending;
     public DateTime CreatedAt { get; set; } = DateTime.UtcNow;

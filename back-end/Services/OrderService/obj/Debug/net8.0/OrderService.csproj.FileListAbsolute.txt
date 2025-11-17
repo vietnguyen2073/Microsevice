@@ -121,3 +121,4 @@ C:\Users\Nguye\Desktop\8xb\back-end\Services\OrderService\obj\Debug\net8.0\Order
 C:\Users\Nguye\Desktop\8xb\back-end\Services\OrderService\obj\Debug\net8.0\OrderService.genruntimeconfig.cache
 C:\Users\Nguye\Desktop\8xb\back-end\Services\OrderService\obj\Debug\net8.0\ref\OrderService.dll
 C:\Users\Nguye\Desktop\8xb\back-end\Services\OrderService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Nguye\Desktop\8xb\back-end\Services\OrderService\obj\Debug\net8.0\OrderService.sourcelink.json
