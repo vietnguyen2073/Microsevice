@@ -1,105 +1,145 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\",
+  "WorkspaceRootPath": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\orderservice\\events\\rabbitmq\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\events\\rabbitmq\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\paymentservice\\events\\rabbitmq\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\events\\rabbitmq\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|APIGateway\\APIGateway.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\paymentservice\\events\\rabbitmq\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\events\\rabbitmq\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\orderservice\\events\\rabbitmq\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\events\\rabbitmq\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\repository\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\repository\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\paymentservice\\events\\models\\paymentcompletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\events\\models\\paymentcompletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\dtos\\orderitemdtos\\orderitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\dtos\\orderitemdtos\\orderitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\dtos\\orderdtos\\orderreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\dtos\\orderdtos\\orderreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\dtos\\orderitemdtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\dtos\\orderitemdtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\dtos\\orderitemdtos\\orderitemreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\dtos\\orderitemdtos\\orderitemreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\dtos\\orderdtos\\orderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\dtos\\orderdtos\\orderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\paymentservice\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\paymentservice\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\paymentservice\\repository\\paymentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\repository\\paymentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\paymentservice\\repository\\ipaymentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\repository\\ipaymentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\paymentservice\\dtos\\paymentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\dtos\\paymentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\paymentservice\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\paymentservice\\dtos\\paymentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\dtos\\paymentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\paymentservice\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\paymentservice\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\orderservice\\events\\models\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\events\\models\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\orderservice\\events\\interface\\irabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\events\\interface\\irabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\orderservice\\events\\interface\\irabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\events\\interface\\irabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\paymentservice\\events\\interface\\irabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\events\\interface\\irabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\paymentservice\\events\\interface\\irabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\events\\interface\\irabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|APIGateway\\APIGateway.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\orderservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\orderservice\\repository\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\repository\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\orderservice\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\orderservice\\dtos\\orderitemdtos\\orderitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\dtos\\orderitemdtos\\orderitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\orderservice\\dtos\\orderdtos\\orderreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\dtos\\orderdtos\\orderreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\orderservice\\dtos\\orderitemdtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\dtos\\orderitemdtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\orderservice\\dtos\\orderitemdtos\\orderitemreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\dtos\\orderitemdtos\\orderitemreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\orderservice\\dtos\\orderdtos\\orderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\dtos\\orderdtos\\orderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\paymentservice\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\paymentservice\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\paymentservice\\repository\\paymentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\repository\\paymentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\paymentservice\\repository\\ipaymentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\repository\\ipaymentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\paymentservice\\dtos\\paymentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\dtos\\paymentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\paymentservice\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\paymentservice\\dtos\\paymentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA886F-7022-E231-A5D2-8BDF0FBB44D6}|PaymentService\\PaymentService.csproj|solutionrelative:paymentservice\\dtos\\paymentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\orderservice\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\dtos\\orderdtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\orderservice\\dtos\\orderdtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\dtos\\orderdtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\dtos\\orderdtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\orderservice\\dtos\\orderdtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\dtos\\orderdtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\orderservice\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\repository\\iordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\orderservice\\repository\\iordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\repository\\iordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\desktop\\8xb\\back-end\\services\\orderservice\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|c:\\users\\nguye\\source\\repos\\microsevice\\back-end\\services\\orderservice\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BCC5D4C-DCFD-F350-0302-6CEEC93FCB6D}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -110,28 +150,143 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitMQConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\PaymentService\\Events\\RabbitMQ\\RabbitMQConsumer.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Events\\RabbitMQ\\RabbitMQConsumer.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\PaymentService\\Events\\RabbitMQ\\RabbitMQConsumer.cs",
+              "RelativeToolTip": "PaymentService\\Events\\RabbitMQ\\RabbitMQConsumer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T18:47:47.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "OrderService\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Properties\\launchSettings.json",
-              "RelativeToolTip": "OrderService\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-10T16:15:54.431Z",
+              "Title": "RabbitMQConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Events\\RabbitMQ\\RabbitMQConsumer.cs",
+              "RelativeDocumentMoniker": "OrderService\\Events\\RabbitMQ\\RabbitMQConsumer.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Events\\RabbitMQ\\RabbitMQConsumer.cs",
+              "RelativeToolTip": "OrderService\\Events\\RabbitMQ\\RabbitMQConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T18:45:11.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RabbitMQPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\PaymentService\\Events\\RabbitMQ\\RabbitMQPublisher.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Events\\RabbitMQ\\RabbitMQPublisher.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\PaymentService\\Events\\RabbitMQ\\RabbitMQPublisher.cs",
+              "RelativeToolTip": "PaymentService\\Events\\RabbitMQ\\RabbitMQPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T18:43:31.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabbitMQPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Events\\RabbitMQ\\RabbitMQPublisher.cs",
+              "RelativeDocumentMoniker": "OrderService\\Events\\RabbitMQ\\RabbitMQPublisher.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Events\\RabbitMQ\\RabbitMQPublisher.cs",
+              "RelativeToolTip": "OrderService\\Events\\RabbitMQ\\RabbitMQPublisher.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T18:43:25.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Events\\Models\\OrderCreatedEvent.cs",
+              "RelativeDocumentMoniker": "OrderService\\Events\\Models\\OrderCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Events\\Models\\OrderCreatedEvent.cs",
+              "RelativeToolTip": "OrderService\\Events\\Models\\OrderCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T18:41:01.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentCompletedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\PaymentService\\Events\\Models\\PaymentCompletedEvent.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Events\\Models\\PaymentCompletedEvent.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\PaymentService\\Events\\Models\\PaymentCompletedEvent.cs",
+              "RelativeToolTip": "PaymentService\\Events\\Models\\PaymentCompletedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T18:40:43.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRabbitMQConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Events\\Interface\\IRabbitMQConsumer.cs",
+              "RelativeDocumentMoniker": "OrderService\\Events\\Interface\\IRabbitMQConsumer.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Events\\Interface\\IRabbitMQConsumer.cs",
+              "RelativeToolTip": "OrderService\\Events\\Interface\\IRabbitMQConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T07:26:54.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "IRabbitMQPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Events\\Interface\\IRabbitMQPublisher.cs",
+              "RelativeDocumentMoniker": "OrderService\\Events\\Interface\\IRabbitMQPublisher.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Events\\Interface\\IRabbitMQPublisher.cs",
+              "RelativeToolTip": "OrderService\\Events\\Interface\\IRabbitMQPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T07:26:00.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRabbitMQPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\PaymentService\\Events\\Interface\\IRabbitMQPublisher.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Events\\Interface\\IRabbitMQPublisher.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\PaymentService\\Events\\Interface\\IRabbitMQPublisher.cs",
+              "RelativeToolTip": "PaymentService\\Events\\Interface\\IRabbitMQPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T07:25:55.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OrderService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OrderService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T16:15:54.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "OrderItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\DTOs\\OrderItemDTOs\\OrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\DTOs\\OrderItemDTOs\\OrderItemDto.cs",
               "RelativeDocumentMoniker": "OrderService\\DTOs\\OrderItemDTOs\\OrderItemDto.cs",
-              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\DTOs\\OrderItemDTOs\\OrderItemDto.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\DTOs\\OrderItemDTOs\\OrderItemDto.cs",
               "RelativeToolTip": "OrderService\\DTOs\\OrderItemDTOs\\OrderItemDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -139,11 +294,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\PaymentService\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\PaymentService\\Models\\Payment.cs",
+              "RelativeToolTip": "PaymentService\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:17:47.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRabbitMQConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\PaymentService\\Events\\Interface\\IRabbitMQConsumer.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Events\\Interface\\IRabbitMQConsumer.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\PaymentService\\Events\\Interface\\IRabbitMQConsumer.cs",
+              "RelativeToolTip": "PaymentService\\Events\\Interface\\IRabbitMQConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T07:26:57.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "OrderReadDto.cs",
-              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\DTOs\\OrderDTOs\\OrderReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\DTOs\\OrderDTOs\\OrderReadDto.cs",
               "RelativeDocumentMoniker": "OrderService\\DTOs\\OrderDTOs\\OrderReadDto.cs",
-              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\DTOs\\OrderDTOs\\OrderReadDto.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\DTOs\\OrderDTOs\\OrderReadDto.cs",
               "RelativeToolTip": "OrderService\\DTOs\\OrderDTOs\\OrderReadDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -151,11 +331,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "OrderItemCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\DTOs\\OrderItemDTOs\\OrderItemCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\DTOs\\OrderItemDTOs\\OrderItemCreateDto.cs",
               "RelativeDocumentMoniker": "OrderService\\DTOs\\OrderItemDTOs\\OrderItemCreateDto.cs",
-              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\DTOs\\OrderItemDTOs\\OrderItemCreateDto.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\DTOs\\OrderItemDTOs\\OrderItemCreateDto.cs",
               "RelativeToolTip": "OrderService\\DTOs\\OrderItemDTOs\\OrderItemCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -163,24 +343,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Models\\Order.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Models\\Order.cs",
               "RelativeDocumentMoniker": "OrderService\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Models\\Order.cs",
               "RelativeToolTip": "OrderService\\Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAwwBAAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:16:07.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T09:16:07.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
               "Title": "PaymentsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Repository\\PaymentsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\PaymentService\\Repository\\PaymentsRepository.cs",
               "RelativeDocumentMoniker": "PaymentService\\Repository\\PaymentsRepository.cs",
-              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Repository\\PaymentsRepository.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\PaymentService\\Repository\\PaymentsRepository.cs",
               "RelativeToolTip": "PaymentService\\Repository\\PaymentsRepository.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -188,11 +367,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "OrdersRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Repository\\OrdersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Repository\\OrdersRepository.cs",
               "RelativeDocumentMoniker": "OrderService\\Repository\\OrdersRepository.cs",
-              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Repository\\OrdersRepository.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Repository\\OrdersRepository.cs",
               "RelativeToolTip": "OrderService\\Repository\\OrdersRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -200,37 +379,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "ocelot.json",
-              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\APIGateway\\ocelot.json",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\APIGateway\\ocelot.json",
               "RelativeDocumentMoniker": "APIGateway\\ocelot.json",
-              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\APIGateway\\ocelot.json",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\APIGateway\\ocelot.json",
               "RelativeToolTip": "APIGateway\\ocelot.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-10T09:06:26.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T09:06:26.595Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Controllers\\OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "OrderService\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "OrderService\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T08:32:00.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T08:32:00.342Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "OrderItemReadDto.cs",
-              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\DTOs\\OrderItemDTOs\\OrderItemReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\DTOs\\OrderItemDTOs\\OrderItemReadDto.cs",
               "RelativeDocumentMoniker": "OrderService\\DTOs\\OrderItemDTOs\\OrderItemReadDto.cs",
-              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\DTOs\\OrderItemDTOs\\OrderItemReadDto.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\DTOs\\OrderItemDTOs\\OrderItemReadDto.cs",
               "RelativeToolTip": "OrderService\\DTOs\\OrderItemDTOs\\OrderItemReadDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -238,11 +415,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "OrderUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\DTOs\\OrderDTOs\\OrderUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\DTOs\\OrderDTOs\\OrderUpdateDto.cs",
               "RelativeDocumentMoniker": "OrderService\\DTOs\\OrderDTOs\\OrderUpdateDto.cs",
-              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\DTOs\\OrderDTOs\\OrderUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\DTOs\\OrderDTOs\\OrderUpdateDto.cs",
               "RelativeToolTip": "OrderService\\DTOs\\OrderDTOs\\OrderUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -250,11 +427,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Services\\OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Services\\OrderService.cs",
               "RelativeDocumentMoniker": "OrderService\\Services\\OrderService.cs",
-              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Services\\OrderService.cs",
               "RelativeToolTip": "OrderService\\Services\\OrderService.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAwwEsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -262,11 +439,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 23,
               "Title": "IPaymentService.cs",
-              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Services\\IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\PaymentService\\Services\\IPaymentService.cs",
               "RelativeDocumentMoniker": "PaymentService\\Services\\IPaymentService.cs",
-              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Services\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\PaymentService\\Services\\IPaymentService.cs",
               "RelativeToolTip": "PaymentService\\Services\\IPaymentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -274,11 +451,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "PaymentService.cs",
-              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Services\\PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\PaymentService\\Services\\PaymentService.cs",
               "RelativeDocumentMoniker": "PaymentService\\Services\\PaymentService.cs",
-              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\PaymentService\\Services\\PaymentService.cs",
               "RelativeToolTip": "PaymentService\\Services\\PaymentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -286,11 +463,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
               "Title": "IPaymentsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Repository\\IPaymentsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\PaymentService\\Repository\\IPaymentsRepository.cs",
               "RelativeDocumentMoniker": "PaymentService\\Repository\\IPaymentsRepository.cs",
-              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Repository\\IPaymentsRepository.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\PaymentService\\Repository\\IPaymentsRepository.cs",
               "RelativeToolTip": "PaymentService\\Repository\\IPaymentsRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -298,11 +475,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 26,
               "Title": "PaymentUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\DTOs\\PaymentUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\PaymentService\\DTOs\\PaymentUpdateDto.cs",
               "RelativeDocumentMoniker": "PaymentService\\DTOs\\PaymentUpdateDto.cs",
-              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\DTOs\\PaymentUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\PaymentService\\DTOs\\PaymentUpdateDto.cs",
               "RelativeToolTip": "PaymentService\\DTOs\\PaymentUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -310,11 +487,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 27,
               "Title": "PaymentDto.cs",
-              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\DTOs\\PaymentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\PaymentService\\DTOs\\PaymentDto.cs",
               "RelativeDocumentMoniker": "PaymentService\\DTOs\\PaymentDto.cs",
-              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\DTOs\\PaymentDto.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\PaymentService\\DTOs\\PaymentDto.cs",
               "RelativeToolTip": "PaymentService\\DTOs\\PaymentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -322,11 +499,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 28,
               "Title": "PaymentCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\DTOs\\PaymentCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\PaymentService\\DTOs\\PaymentCreateDto.cs",
               "RelativeDocumentMoniker": "PaymentService\\DTOs\\PaymentCreateDto.cs",
-              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\DTOs\\PaymentCreateDto.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\PaymentService\\DTOs\\PaymentCreateDto.cs",
               "RelativeToolTip": "PaymentService\\DTOs\\PaymentCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -334,23 +511,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Models\\Payment.cs",
-              "RelativeDocumentMoniker": "PaymentService\\Models\\Payment.cs",
-              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\PaymentService\\Models\\Payment.cs",
-              "RelativeToolTip": "PaymentService\\Models\\Payment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:17:47.336Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 29,
               "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Models\\OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Models\\OrderItem.cs",
               "RelativeDocumentMoniker": "OrderService\\Models\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Models\\OrderItem.cs",
               "RelativeToolTip": "OrderService\\Models\\OrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -358,11 +523,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "OrderCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\DTOs\\OrderDTOs\\OrderCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\DTOs\\OrderDTOs\\OrderCreateDto.cs",
               "RelativeDocumentMoniker": "OrderService\\DTOs\\OrderDTOs\\OrderCreateDto.cs",
-              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\DTOs\\OrderDTOs\\OrderCreateDto.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\DTOs\\OrderDTOs\\OrderCreateDto.cs",
               "RelativeToolTip": "OrderService\\DTOs\\OrderDTOs\\OrderCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -370,11 +535,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 31,
               "Title": "OrderDto.cs",
-              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\DTOs\\OrderDTOs\\OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\DTOs\\OrderDTOs\\OrderDto.cs",
               "RelativeDocumentMoniker": "OrderService\\DTOs\\OrderDTOs\\OrderDto.cs",
-              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\DTOs\\OrderDTOs\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\DTOs\\OrderDTOs\\OrderDto.cs",
               "RelativeToolTip": "OrderService\\DTOs\\OrderDTOs\\OrderDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -382,11 +547,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 32,
               "Title": "OrderDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Data\\OrderDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Data\\OrderDBContext.cs",
               "RelativeDocumentMoniker": "OrderService\\Data\\OrderDBContext.cs",
-              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Data\\OrderDBContext.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Data\\OrderDBContext.cs",
               "RelativeToolTip": "OrderService\\Data\\OrderDBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -394,11 +559,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 33,
               "Title": "IOrdersRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Repository\\IOrdersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Repository\\IOrdersRepository.cs",
               "RelativeDocumentMoniker": "OrderService\\Repository\\IOrdersRepository.cs",
-              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Repository\\IOrdersRepository.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Repository\\IOrdersRepository.cs",
               "RelativeToolTip": "OrderService\\Repository\\IOrdersRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -406,11 +571,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 34,
               "Title": "IOrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Services\\IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Services\\IOrderService.cs",
               "RelativeDocumentMoniker": "OrderService\\Services\\IOrderService.cs",
-              "ToolTip": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\OrderService\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\OrderService\\Services\\IOrderService.cs",
               "RelativeToolTip": "OrderService\\Services\\IOrderService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,4 +1,7 @@
 ﻿using PaymentService.DTOs;
+using PaymentService.Events.Interface;
+using PaymentService.Events.Models;
+using PaymentService.Events.RabbitMQ;
 using PaymentService.Models;
 using PaymentService.Repository;
 
@@ -7,10 +10,12 @@ namespace PaymentService.Services
     public class PaymentService : IPaymentService
     {
         private readonly IPaymentsRepository _repo;
+        private readonly IRabbitMQPublisher _rabbitMQPublisher;
 
-        public PaymentService(IPaymentsRepository repo)
+        public PaymentService(IPaymentsRepository repo, IRabbitMQPublisher rabbitMQPublisher)
         {
             _repo = repo;
+            _rabbitMQPublisher = rabbitMQPublisher;
         }
 
         public async Task<List<PaymentDto>> GetAllAsync()
@@ -52,7 +57,8 @@ namespace PaymentService.Services
             };
 
             await _repo.CreateAsync(payment);
-            return new PaymentDto
+
+            var result = new PaymentDto
             {
                 Id = payment.Id,
                 OrderId = payment.OrderId,
@@ -60,6 +66,17 @@ namespace PaymentService.Services
                 Status = payment.Status,
                 CreatedAt = payment.CreatedAt
             };
+
+            //RabbitMQ
+            var paymentEvent = new PaymentCompletedEvent
+            {
+                OrderId = result.Id,
+                Status = PaymentStatus.Success
+            };
+
+            _rabbitMQPublisher.Publish(paymentEvent, exchangeName: "payment_exchange", routingKey: "payment.update");
+
+            return result;
         }
 
         public async Task<bool> UpdateAsync(Guid id, PaymentUpdateDto dto)

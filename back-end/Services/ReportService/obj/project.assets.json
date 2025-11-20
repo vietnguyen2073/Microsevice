@@ -3130,11 +3130,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\ReportService\\ReportService.csproj",
+      "projectUniqueName": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\ReportService\\ReportService.csproj",
       "projectName": "ReportService",
-      "projectPath": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\ReportService\\ReportService.csproj",
+      "projectPath": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\ReportService\\ReportService.csproj",
       "packagesPath": "C:\\Users\\Nguye\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nguye\\Desktop\\8xb\\back-end\\Services\\ReportService\\obj\\",
+      "outputPath": "C:\\Users\\Nguye\\source\\repos\\Microsevice\\back-end\\Services\\ReportService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3167,7 +3167,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -3219,7 +3219,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
