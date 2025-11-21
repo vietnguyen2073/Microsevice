@@ -1,7 +1,6 @@
 ﻿using PaymentService.DTOs;
 using PaymentService.Events.Interface;
 using PaymentService.Events.Models;
-using PaymentService.Events.RabbitMQ;
 using PaymentService.Models;
 using PaymentService.Repository;
 

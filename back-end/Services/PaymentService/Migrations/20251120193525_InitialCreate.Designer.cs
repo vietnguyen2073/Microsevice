@@ -5,14 +5,14 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
-using ReportService.Data;
+using PaymentService.Data;
 
 #nullable disable
 
-namespace ReportService.Migrations
+namespace PaymentService.Migrations
 {
-    [DbContext(typeof(ReportDbContext))]
-    [Migration("20251109233054_InitialCreate")]
+    [DbContext(typeof(PaymentDbContext))]
+    [Migration("20251120193525_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -25,26 +25,27 @@ namespace ReportService.Migrations
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
 
-            modelBuilder.Entity("ReportService.Models.Report", b =>
+            modelBuilder.Entity("PaymentService.Models.Payment", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uuid");
 
-                    b.Property<string>("Content")
-                        .IsRequired()
-                        .HasColumnType("text");
+                    b.Property<decimal>("Amount")
+                        .HasColumnType("numeric");
 
                     b.Property<DateTime>("CreatedAt")
                         .HasColumnType("timestamp with time zone");
 
-                    b.Property<string>("Title")
-                        .IsRequired()
-                        .HasColumnType("text");
+                    b.Property<Guid>("OrderId")
+                        .HasColumnType("uuid");
+
+                    b.Property<int>("Status")
+                        .HasColumnType("integer");
 
                     b.HasKey("Id");
 
-                    b.ToTable("Reports");
+                    b.ToTable("Payments");
                 });
 #pragma warning restore 612, 618
         }

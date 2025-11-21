@@ -1,6 +1,4 @@
-﻿using OrderService.Events.Models;
-
-namespace OrderService.Events.Interface
+﻿namespace OrderService.Events.Interface
 {
     public interface IRabbitMQPublisher
     {

@@ -26,8 +26,6 @@ namespace OrderService.Events.RabbitMQ
         public void Publish<T>(T message, string exchangeName, string routingKey) 
         {
             _channel.ExchangeDeclare(exchange: exchangeName, type: ExchangeType.Direct, durable: true);
-            _channel.QueueDeclare(queue: "payment_update_status", durable: true, exclusive: false, autoDelete: false);
-            _channel.QueueBind(queue: "payment_update_status", exchange: exchangeName, routingKey: routingKey);
 
             var json = JsonConvert.SerializeObject(message);
             var body = Encoding.UTF8.GetBytes(json);

@@ -12,7 +12,7 @@ using OrderService.Data;
 namespace OrderService.Migrations
 {
     [DbContext(typeof(OrderDBContext))]
-    [Migration("20251109193657_InitialCreate")]
+    [Migration("20251120093612_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -35,7 +35,6 @@ namespace OrderService.Migrations
                         .HasColumnType("timestamp with time zone");
 
                     b.Property<string>("CustomerName")
-                        .IsRequired()
                         .HasColumnType("text");
 
                     b.Property<int>("Status")

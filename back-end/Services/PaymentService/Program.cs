@@ -1,5 +1,8 @@
 using Microsoft.EntityFrameworkCore;
+using OrderService.Events.RabbitMQ;
+using PaymentService.BackgroundServices;
 using PaymentService.Data;
+using PaymentService.Events.Interface;
 using PaymentService.Repository;
 using PaymentService.Services;
 
@@ -17,7 +20,9 @@ builder.Services.AddDbContext<PaymentDbContext>(opt =>
     opt.UseNpgsql(builder.Configuration.GetConnectionString("Default")));
 
 builder.Services.AddScoped<IPaymentService, PaymentService.Services.PaymentService>();
-builder.Services.AddScoped<IPaymentsRepository, PaymentService.Repository.PaymentsRepository>();
+builder.Services.AddScoped<IPaymentsRepository, PaymentsRepository>();
+builder.Services.AddSingleton<IRabbitMQPublisher, RabbitMQPublisher>();
+builder.Services.AddHostedService<OrderCreatedListenerService>();
 
 
 

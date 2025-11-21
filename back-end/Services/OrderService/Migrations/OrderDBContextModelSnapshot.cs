@@ -32,7 +32,6 @@ namespace OrderService.Migrations
                         .HasColumnType("timestamp with time zone");
 
                     b.Property<string>("CustomerName")
-                        .IsRequired()
                         .HasColumnType("text");
 
                     b.Property<int>("Status")

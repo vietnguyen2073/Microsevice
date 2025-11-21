@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using OrderService.BackgroundServices;
 using OrderService.Data;
 using OrderService.Events.Interface;
 using OrderService.Events.RabbitMQ;
@@ -20,6 +21,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IOrderService, OrderService.Services.OrderService>();
 builder.Services.AddScoped<IOrdersRepository, OrdersRepository>();
 builder.Services.AddSingleton<IRabbitMQPublisher, RabbitMQPublisher>();
+builder.Services.AddHostedService<PaymentSuccessListenerService>();
 
 
 // Kết nối PostgreSQL
